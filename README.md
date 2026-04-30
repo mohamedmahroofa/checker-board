@@ -1,5 +1,7 @@
 # Bootstrap Checkerboard
 
+🔴 **Live Demo:** [View on Netlify](https://lambent-fenglisu-545b42.netlify.app)
+
 A classic 8×8 checkerboard built with **Bootstrap 4** and custom CSS. This project demonstrates how Bootstrap's grid system can be combined with custom class names to produce structured, repeating layouts — without a single line of JavaScript logic.
 
 ---
