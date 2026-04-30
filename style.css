@@ -18,8 +18,8 @@ body {
 }
 
 .black {
-  background-color: lightgreen;
-}
-.white {
   background-color: black;
+}
+.green {
+  background-color: lightgreen;
 }
